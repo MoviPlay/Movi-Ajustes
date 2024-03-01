@@ -8,7 +8,7 @@ Que disfruteis de los canales!
 
 -----------------------------------------------------------------------------
 
-⚠Todos los canales son sacados de tivify
+⚠Todos los canales son sacados de tivify y oha.to
 
 ⚠Actualizamos el satelite cuando haya canales nuevos.
 

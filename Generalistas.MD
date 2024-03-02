@@ -1,6 +1,7 @@
 # Generalistas
 
 | Canal | Ver |
+| - | - |
 | La 1 | [Ver](https://oha.to/play/430938861/index.m3u8)
 | La 2 | [Ver](https://oha.to/play/1206306221/index.m3u8)
 | Antena 3 | [Ver](https://oha.to/play/1723169343/index.m3u8)

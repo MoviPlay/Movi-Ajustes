@@ -6,6 +6,8 @@ NicaSAT es oficial, igual como lo llameis TivifySAT
 
 Que disfruteis de los canales gratis!
 
+Link del satelite para ver todos los canales: https://raw.githubusercontent.com/NicaSAT/NicaSAT/main/NicaSAT.m3u
+
 -----------------------------------------------------------------------------
 
 ⚠Todos los canales son sacados de tivify

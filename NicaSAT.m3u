@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="https://tivify.es/es/, https://www.rtve.es/play/la-1/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png" group-title="Generalistas",La 1
+https://tvup-live.akamaized.net/la1-neutra/audio0_init_r0s65b99e9d.mp4, https://tvup-live.akamaized.net/la1-neutra/video0_init_r0s65b99e9d.mp4

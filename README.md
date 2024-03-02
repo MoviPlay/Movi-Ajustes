@@ -4,11 +4,11 @@ NicaSAT, el satelite con links oficiales de todos los canales de Tivify
 
 NicaSAT es oficial, igual como lo llameis TivifySAT
 
-Que disfruteis de los canales!
+Que disfruteis de los canales gratis!
 
 -----------------------------------------------------------------------------
 
-⚠Todos los canales son sacados de tivify y oha.to
+⚠Todos los canales son sacados de tivify
 
 ⚠Actualizamos el satelite cuando haya canales nuevos.
 

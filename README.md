@@ -1,6 +1,6 @@
 El satelite ha llegado.
 
-Vavoo es oficial
+VavooSAT es oficial
 
 Que disfruteis de los canales!
 
